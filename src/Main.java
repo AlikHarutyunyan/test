@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Start");
         printNumbers();
-        System.out.println("Finish2!");
+        System.out.println("Finish3!");
     }
 
     public static void printNumbers() {
